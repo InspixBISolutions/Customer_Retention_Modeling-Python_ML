@@ -113,7 +113,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Launch the notebook:
 
-jupyter notebook Final_Project_Group13_INDU6611.ipynb
+jupyter notebook Customer Retention Model.ipynb
 
 Follow the cells step by step.
 
